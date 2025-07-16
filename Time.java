@@ -1,4 +1,4 @@
-class Time {
+public class Time {
     int hora, minuto;
 
     Time(int h, int m) {
