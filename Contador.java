@@ -1,4 +1,4 @@
-class Contador {
+public class Contador {
     private int valor;
 
     public int getValor() {
