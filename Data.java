@@ -1,4 +1,4 @@
-class Data {
+public class Data {
     int dia, mes, ano;
 
     void ajustarData(int dia, int mes, int ano) {
