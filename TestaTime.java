@@ -1,4 +1,4 @@
-class TestaTime {
+public class TestaTime {
     public static void main(String[] args) {
         Time t1 = new Time(14, 30);
         Time t2 = new Time(16, 0);
