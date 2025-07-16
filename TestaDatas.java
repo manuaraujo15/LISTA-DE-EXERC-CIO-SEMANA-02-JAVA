@@ -1,4 +1,4 @@
-class TestaDatas {
+public class TestaDatas {
     public static void main(String[] args) {
         Data d1 = new Data(); d1.ajustarData(15, 6, 2020);
         Data d2 = new Data(); d2.ajustarData(10, 7, 2023);
